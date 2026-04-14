@@ -1,3 +1,6 @@
+before
 hello world
 privet
 koooool
+after
+hall
